@@ -1,4 +1,4 @@
-Here you find the references fot the U of I show case poster session on November 9th, 2022.
+This repository includes relevant references to my poster "Modeling Prototypciality for Genre Condepts" at the University of Illinois ShowCase poster session on November 9th, 2022.
 
 Please find information concerning the corpus in my repository 19CproseCorpus: https://github.com/julianschroeter/19CproseCorpus
 
